@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hiringhoodassignment-ramprasad/static/css/main.39538aa0.css",
+    "main.js": "/hiringhoodassignment-ramprasad/static/js/main.25c4726a.js",
+    "static/js/592.39a0c389.chunk.js": "/hiringhoodassignment-ramprasad/static/js/592.39a0c389.chunk.js",
+    "static/media/wallpaper.jpg": "/hiringhoodassignment-ramprasad/static/media/wallpaper.8e9f98c7d5111c92c565.jpg",
+    "index.html": "/hiringhoodassignment-ramprasad/index.html",
+    "main.39538aa0.css.map": "/hiringhoodassignment-ramprasad/static/css/main.39538aa0.css.map",
+    "main.25c4726a.js.map": "/hiringhoodassignment-ramprasad/static/js/main.25c4726a.js.map",
+    "592.39a0c389.chunk.js.map": "/hiringhoodassignment-ramprasad/static/js/592.39a0c389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39538aa0.css",
+    "static/js/main.25c4726a.js"
+  ]
+}
